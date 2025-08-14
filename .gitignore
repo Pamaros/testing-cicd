@@ -4,3 +4,7 @@
 # React Router
 /.react-router/
 /build/
+
+# Env / Secrets / DO NOT UPLOAD TO REPO
+.env
+#significa que o .env file não vai para o github pelo push
